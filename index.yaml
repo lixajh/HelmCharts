@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  example-lixajh:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-07-22T00:32:34.223984078+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 09de9d9277aebab56abbf10f091153e2f5379fff7296644e9a398ebe61aa784b
+    name: example-lixajh
+    urls:
+    - https://lixajh.github.io/HelmCharts/example-lixajh-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-07-22T00:32:34.223317271+08:00"
